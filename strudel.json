@@ -1,4 +1,8 @@
 {
     "_base": "https://raw.githubusercontent.com/erchinoald/strudel-samples/main/",
-    "wt_saw": "wt_saw/ct-wt-1792778452-hypersaw_1-256-2048-32.wav"
+    "wt_saw": [
+        "wt_saw/ct-wt-1792778452-hypersaw_1-256-2048-32.wav",
+        "wt_saw/ct-wt-1792781413-wonky_saw-256-2048-32.wav",
+        "wt_saw/ct-wt-1792781811-wobbly_saw-256-2048-32.wav"
+    ]
 }
