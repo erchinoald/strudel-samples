@@ -1,8 +1,62 @@
 {
     "_base": "https://raw.githubusercontent.com/erchinoald/strudel-samples/main/",
+    "mantice": [
+        "mantice/Alabaster Labyrinth (1).wav",
+        "mantice/Alabaster Labyrinth.wav",
+        "mantice/Hollow Drift (1).wav",
+        "mantice/Hollow Drift.wav",
+        "mantice/Magnetic Tape.wav",
+        "mantice/Sacred Sanctum.wav",
+        "mantice/Warm Pad.wav"
+    ],
+    "mortal_kombat": [
+        "mortal_kombat/Mortal Kombat - All Announcer Sounds.mp3",
+        "mortal_kombat/Mortal_Kombat_1_sound_effects.mp3"
+    ],
+    "vocal_chants": [
+        "vocal_chants/vox1.wav",
+        "vocal_chants/vox10.wav",
+        "vocal_chants/vox11.wav",
+        "vocal_chants/vox12.wav",
+        "vocal_chants/vox13.wav",
+        "vocal_chants/vox14.wav",
+        "vocal_chants/vox15.wav",
+        "vocal_chants/vox16.wav",
+        "vocal_chants/vox17.wav",
+        "vocal_chants/vox18.wav",
+        "vocal_chants/vox19.wav",
+        "vocal_chants/vox2.wav",
+        "vocal_chants/vox20.wav",
+        "vocal_chants/vox21.wav",
+        "vocal_chants/vox3.wav",
+        "vocal_chants/vox4.wav",
+        "vocal_chants/vox5.wav",
+        "vocal_chants/vox6.wav",
+        "vocal_chants/vox7.wav",
+        "vocal_chants/vox8.wav",
+        "vocal_chants/vox9.wav"
+    ],
+    "wt_bass": [
+        "wt_bass/ct-wt-1790026454-reese_1-256-2048-32.wav",
+        "wt_bass/ct-wt-1790026474-sine_based_bass-256-2048-32.wav",
+        "wt_bass/ct-wt-1790026505-idk_man_its_a_donk_bass-256-2048-32.wav",
+        "wt_bass/ct-wt-1790026518-unnamed_project-256-2048-32.wav",
+        "wt_bass/ct-wt-1790026532-acid_saw-256-2048-32.wav",
+        "wt_bass/ct-wt-1790026554-_xt__lava_plume-256-2048-32.wav",
+        "wt_bass/ct-wt-1790026571-xlk_jigsaw_3-256-2048-32.wav",
+        "wt_bass/ct-wt-1790026592-xlk_jigsaw_1-256-2048-32.wav"
+    ],
+    "wt_lead": [
+        "wt_lead/ct-wt-1790033757-supersaw_wiliwow-256-2048-32.wav",
+        "wt_lead/ct-wt-1790033773-deep_spectral_dreams-256-2048-32.wav",
+        "wt_lead/ct-wt-1790033817-a_lead-256-2048-32.wav",
+        "wt_lead/ct-wt-1791243856-unnamed_project-256-2048-32.wav"
+    ],
     "wt_saw": [
         "wt_saw/ct-wt-1792778452-hypersaw_1-256-2048-32.wav",
         "wt_saw/ct-wt-1792781413-wonky_saw-256-2048-32.wav",
-        "wt_saw/ct-wt-1792781811-wobbly_saw-256-2048-32.wav"
+        "wt_saw/ct-wt-1792781811-wobbly_saw-256-2048-32.wav",
+        "wt_saw/ct-wt-1792787263-squeeze_saw-256-2048-32.wav",
+        "wt_saw/ct-wt-1792791508-saw_superposition-256-2048-32.wav"
     ]
 }
