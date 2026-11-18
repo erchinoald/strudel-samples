@@ -1,85 +1,85 @@
 {
     "_base": "https://raw.githubusercontent.com/erchinoald/strudel-samples/main/",
-    "wt_laser": [
-        "ct-wt-1792440539-unnamed_project-256-2048-32.wav",
-        "ct-wt-1792441112-unnamed_project-256-2048-32.wav"
-    ],
-    "wt_saw": [
-        "ct-wt-1792778452-hypersaw_1-256-2048-32.wav",
-        "ct-wt-1792781413-wonky_saw-256-2048-32.wav",
-        "ct-wt-1792781811-wobbly_saw-256-2048-32.wav",
-        "ct-wt-1792787263-squeeze_saw-256-2048-32.wav",
-        "ct-wt-1792791508-saw_superposition-256-2048-32.wav"
-    ],
-    "wt_bass": [
-        "ct-wt-1790026454-reese_1-256-2048-32.wav",
-        "ct-wt-1790026474-sine_based_bass-256-2048-32.wav",
-        "ct-wt-1790026505-idk_man_its_a_donk_bass-256-2048-32.wav",
-        "ct-wt-1790026518-unnamed_project-256-2048-32.wav",
-        "ct-wt-1790026532-acid_saw-256-2048-32.wav",
-        "ct-wt-1790026554-_xt__lava_plume-256-2048-32.wav",
-        "ct-wt-1790026571-xlk_jigsaw_3-256-2048-32.wav",
-        "ct-wt-1790026592-xlk_jigsaw_1-256-2048-32.wav"
-    ],
-    "vocal_chants": [
-        "vox1.wav",
-        "vox10.wav",
-        "vox11.wav",
-        "vox12.wav",
-        "vox13.wav",
-        "vox14.wav",
-        "vox15.wav",
-        "vox16.wav",
-        "vox17.wav",
-        "vox18.wav",
-        "vox19.wav",
-        "vox2.wav",
-        "vox20.wav",
-        "vox21.wav",
-        "vox3.wav",
-        "vox4.wav",
-        "vox5.wav",
-        "vox6.wav",
-        "vox7.wav",
-        "vox8.wav",
-        "vox9.wav"
-    ],
-    "wt_808": [
-        "ct-wt-1789682641-rnd-256-2048-32.wav",
-        "ct-wt-1789682754-rnd-256-2048-32.wav",
-        "ct-wt-1789690632-808_2-256-2048-32.wav",
-        "ct-wt-1789690695-808_2-256-2048-32.wav"
-    ],
-    "mortal_kombat": [
-        "Mortal Kombat - All Announcer Sounds.mp3",
-        "Mortal_Kombat_1_sound_effects.mp3"
-    ],
-    "wt_test": [
-        "ct-wt-1789583979-reese_mirror_-256-2048-32.wav",
-        "ct-wt-1789597067-em_bell_ish-256-2048-32.wav",
-        "ct-wt-1789597075-reese_mirror_-256-2048-32.wav",
-        "ct-wt-1789597083-deep_bass-256-2048-32.wav",
-        "ct-wt-1789597091-cell4_bytoka-256-2048-32.wav",
-        "ct-wt-1789597111-deep-256-2048-32.wav",
-        "ct-wt-1789597139-back_to_basics-256-2048-32.wav",
-        "wt_test.wav"
-    ],
-    "wt_lead": [
-        "ct-wt-1789662798-cyclone_moon_key-256-2048-32.wav",
-        "ct-wt-1789662820-disharmont__serum___about_homelessness__-256-2048-32.wav",
-        "ct-wt-1789662837-kings_cross__serum_-256-2048-32.wav",
-        "ct-wt-1789662850-green_cheese_cake__serum-256-2048-32.wav",
-        "ct-wt-1789662865-osc_wave_1__serum_-256-2048-32.wav",
-        "ct-wt-1789662896-trance_wave_1__serum_-256-2048-32.wav",
-        "ct-wt-1789662906-trempa__serum_-256-2048-32.wav",
-        "ct-wt-1789662924-joy_branch__serum_-256-2048-32.wav",
-        "ct-wt-1790033757-supersaw_wiliwow-256-2048-32.wav",
-        "ct-wt-1790033773-deep_spectral_dreams-256-2048-32.wav",
-        "ct-wt-1790033817-a_lead-256-2048-32.wav",
-        "ct-wt-1791243856-unnamed_project-256-2048-32.wav"
-    ],
-    "wt_bell": [
-        "ct-wt-1789680893-em_bell_ish-256-2048-32.wav",
-        "ct-wt-1789680960-em_bell_ish-256-2048-32.wav"
-    ]
+    "wt_laser":  [
+                     "wt_laser/ct-wt-1792440539-unnamed_project-256-2048-32.wav",
+                     "wt_laser/ct-wt-1792441112-unnamed_project-256-2048-32.wav"
+                 ],
+    "wt_saw":  [
+                   "wt_saw/ct-wt-1792778452-hypersaw_1-256-2048-32.wav",
+                   "wt_saw/ct-wt-1792781413-wonky_saw-256-2048-32.wav",
+                   "wt_saw/ct-wt-1792781811-wobbly_saw-256-2048-32.wav",
+                   "wt_saw/ct-wt-1792787263-squeeze_saw-256-2048-32.wav",
+                   "wt_saw/ct-wt-1792791508-saw_superposition-256-2048-32.wav"
+               ],
+    "wt_808":  [
+                   "wt_808/ct-wt-1789682641-rnd-256-2048-32.wav",
+                   "wt_808/ct-wt-1789682754-rnd-256-2048-32.wav",
+                   "wt_808/ct-wt-1789690632-808_2-256-2048-32.wav",
+                   "wt_808/ct-wt-1789690695-808_2-256-2048-32.wav"
+               ],
+    "vocal_chants":  [
+                         "vocal_chants/vox1.wav",
+                         "vocal_chants/vox10.wav",
+                         "vocal_chants/vox11.wav",
+                         "vocal_chants/vox12.wav",
+                         "vocal_chants/vox13.wav",
+                         "vocal_chants/vox14.wav",
+                         "vocal_chants/vox15.wav",
+                         "vocal_chants/vox16.wav",
+                         "vocal_chants/vox17.wav",
+                         "vocal_chants/vox18.wav",
+                         "vocal_chants/vox19.wav",
+                         "vocal_chants/vox2.wav",
+                         "vocal_chants/vox20.wav",
+                         "vocal_chants/vox21.wav",
+                         "vocal_chants/vox3.wav",
+                         "vocal_chants/vox4.wav",
+                         "vocal_chants/vox5.wav",
+                         "vocal_chants/vox6.wav",
+                         "vocal_chants/vox7.wav",
+                         "vocal_chants/vox8.wav",
+                         "vocal_chants/vox9.wav"
+                     ],
+    "wt_bass":  [
+                    "wt_bass/ct-wt-1790026454-reese_1-256-2048-32.wav",
+                    "wt_bass/ct-wt-1790026474-sine_based_bass-256-2048-32.wav",
+                    "wt_bass/ct-wt-1790026505-idk_man_its_a_donk_bass-256-2048-32.wav",
+                    "wt_bass/ct-wt-1790026518-unnamed_project-256-2048-32.wav",
+                    "wt_bass/ct-wt-1790026532-acid_saw-256-2048-32.wav",
+                    "wt_bass/ct-wt-1790026554-_xt__lava_plume-256-2048-32.wav",
+                    "wt_bass/ct-wt-1790026571-xlk_jigsaw_3-256-2048-32.wav",
+                    "wt_bass/ct-wt-1790026592-xlk_jigsaw_1-256-2048-32.wav"
+                ],
+    "mortal_kombat":  [
+                          "mortal_kombat/Mortal Kombat - All Announcer Sounds.mp3",
+                          "mortal_kombat/Mortal_Kombat_1_sound_effects.mp3"
+                      ],
+    "wt_test":  [
+                    "wt_test/ct-wt-1789583979-reese_mirror_-256-2048-32.wav",
+                    "wt_test/ct-wt-1789597067-em_bell_ish-256-2048-32.wav",
+                    "wt_test/ct-wt-1789597075-reese_mirror_-256-2048-32.wav",
+                    "wt_test/ct-wt-1789597083-deep_bass-256-2048-32.wav",
+                    "wt_test/ct-wt-1789597091-cell4_bytoka-256-2048-32.wav",
+                    "wt_test/ct-wt-1789597111-deep-256-2048-32.wav",
+                    "wt_test/ct-wt-1789597139-back_to_basics-256-2048-32.wav",
+                    "wt_test/wt_test.wav"
+                ],
+    "wt_lead":  [
+                    "wt_lead/ct-wt-1789662798-cyclone_moon_key-256-2048-32.wav",
+                    "wt_lead/ct-wt-1789662820-disharmont__serum___about_homelessness__-256-2048-32.wav",
+                    "wt_lead/ct-wt-1789662837-kings_cross__serum_-256-2048-32.wav",
+                    "wt_lead/ct-wt-1789662850-green_cheese_cake__serum-256-2048-32.wav",
+                    "wt_lead/ct-wt-1789662865-osc_wave_1__serum_-256-2048-32.wav",
+                    "wt_lead/ct-wt-1789662896-trance_wave_1__serum_-256-2048-32.wav",
+                    "wt_lead/ct-wt-1789662906-trempa__serum_-256-2048-32.wav",
+                    "wt_lead/ct-wt-1789662924-joy_branch__serum_-256-2048-32.wav",
+                    "wt_lead/ct-wt-1790033757-supersaw_wiliwow-256-2048-32.wav",
+                    "wt_lead/ct-wt-1790033773-deep_spectral_dreams-256-2048-32.wav",
+                    "wt_lead/ct-wt-1790033817-a_lead-256-2048-32.wav",
+                    "wt_lead/ct-wt-1791243856-unnamed_project-256-2048-32.wav"
+                ],
+    "wt_bell":  [
+                    "wt_bell/ct-wt-1789680893-em_bell_ish-256-2048-32.wav",
+                    "wt_bell/ct-wt-1789680960-em_bell_ish-256-2048-32.wav"
+                ]
 }
